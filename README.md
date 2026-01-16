@@ -62,7 +62,6 @@ This is my **3rd Power BI project**, focused on strengthening my skills in data 
 - Certain item categories consistently outperform others
 - Outlet type significantly impacts sales performance
 - Higher customer ratings are associated with better sales
-
 ---
 
-## 📁 Project Structure
+## 📁 Project Str
